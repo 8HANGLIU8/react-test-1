@@ -19,7 +19,6 @@
   "bugs": {
     "url": "https://github.com/8hangliu8/react-test-1/issues"
   },
-  "homepage": "https://github.com/8hangliu8/react-test-1#readme",
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
